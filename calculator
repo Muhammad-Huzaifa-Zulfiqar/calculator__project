@@ -1,2 +1,4 @@
 Console.WriteLine("Muhammad Huzaifa");
 Console.WriteLine("ROll Number=24-ST-007");
+int a=12,b=23;
+Console.WriteLine("Addition of two numbers is "+a+b);
