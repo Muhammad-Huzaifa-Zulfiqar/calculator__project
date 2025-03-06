@@ -1,2 +1,4 @@
 Console.WriteLine("Muhammad Huzaifa");
 Console.WriteLine("ROll Number=24-ST-007");
+int a=89,b=93;
+Console.WriteLine("Subtraction of two numbers is "+a-b);
