@@ -1,2 +1,4 @@
 Console.WriteLine("Muhammad Huzaifa");
 Console.WriteLine("ROll Number=24-ST-007");
+int a=72,b=78;
+Console.WriteLine("Multiplication of two numbers is "+a*b);
