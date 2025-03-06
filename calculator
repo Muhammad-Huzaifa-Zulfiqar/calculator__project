@@ -1,2 +1,16 @@
 Console.WriteLine("Muhammad Huzaifa");
 Console.WriteLine("ROll Number=24-ST-007");
+ Subtraction
+ Multiplication
+ Division
+int a=24,b=22;
+Console.WriteLine("Division of two numbers is "+a/b);
+int a=72,b=78;
+Console.WriteLine("Multiplication of two numbers is "+a*b);
+Multiplication
+int a=89,b=93;
+Console.WriteLine("Subtraction of two numbers is "+a-b);
+Subtraction
+int a=12,b=23;
+Console.WriteLine("Addition of two numbers is "+a+b);
+ Addition
